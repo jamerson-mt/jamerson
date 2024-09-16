@@ -14,8 +14,6 @@ Hi there! I'm a 21-year-old software development student and somewhat of a gener
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=radical)
 
-## Recent Commits
-- Explore recent commits using `git log` or directly from the repositories.
 
 Thanks for visiting my profile!
 
