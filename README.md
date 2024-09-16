@@ -1,20 +1,20 @@
-# Welcome to My GitHub
+# Bem-vindo ao Meu GitHub
 
-Hi there! I'm a 21-year-old software development student and somewhat of a generalist. I enjoy exploring different areas of technology and always aim to expand my knowledge. Feel free to check out my projects and reach out if you want to collaborate!
+Olá! Sou um estudante de desenvolvimento de software de 21 anos e um tanto "generalista". Gosto de explorar diferentes áreas da tecnologia e estou sempre buscando expandir meus conhecimentos. Fique à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
 
-## What you'll find here
-- Full-stack development projects
-- Exploration of new technologies
-- Side projects and experiments
-- API development
+## O que você vai encontrar aqui
+- Projetos de desenvolvimento full-stack
+- Exploração de novas tecnologias
+- Projetos paralelos e experimentos
+- Desenvolvimento de APIs
 
-## GitHub Stats
+## Estatísticas do GitHub
 ![jamerson-mt](https://github-readme-stats.vercel.app/api?username=jamerson-mt&show_icons=true&theme=radical)
 
-## Most Used Languages
+## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=radical)
 
 
-Thanks for visiting my profile!
+Obrigado por visitar meu perfil!
 
-Happy coding! 🚀
+Faça um bom passeio! 🚀
