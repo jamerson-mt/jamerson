@@ -15,7 +15,7 @@ Olá! Sou um estudante de desenvolvimento de software de 21 anos, e um tanto "ge
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamerson-mt&layout=compact&theme=radical)
 
 ## Minhas ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js.vueJS-Light.dotNet.aspNet.cs.figma-Dark)](https://skillicons.dev)
 
 
 Obrigado por visitar meu perfil!
